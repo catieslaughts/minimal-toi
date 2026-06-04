@@ -2,7 +2,7 @@
 @import "rouge-github";
 
 body {
-  background-color: #F3E4CE;
+  background-color: #FBF6EF;
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#222;
@@ -10,7 +10,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#380b07;
+  color:#77867F;
   margin:0 0 20px;
 }
 
@@ -32,15 +32,15 @@ h1 {
 }
 
 a {
-  color:#69140E;
+  color:#143109;
   text-decoration:none;
   font-family: "Noto Sans", Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
 }
 
 a:hover, a:focus {
-  color:#380b07;
+  color:#071203;
 }
-
+/*
 a small {
   font-size:11px;
   color:#777;
@@ -260,7 +260,7 @@ footer {
   .downloads li, .downloads li + li + li {
     width:33%;
   }
-}
+}*/
 
 @media print {
   body {
